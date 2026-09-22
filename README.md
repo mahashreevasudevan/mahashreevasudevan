@@ -1,21 +1,23 @@
 # 💫 About Me:
-I am pursuing a Master’s in Artificial Intelligence and Machine Learning at the University of Birmingham. My background in Physics shaped the analytical approach I bring to modelling and problem‑solving.
+I’m an AI Engineer completing a Master’s in Artificial Intelligence and Machine Learning at the University of Birmingham, with a background in Physics. I build and evaluate AI systems across LLMs, AI agents, RAG, deep learning, and machine learning.
 
-I work across NLP and LLM applications, deep learning, time‑series forecasting, and scalable ML engineering. Recent projects include:
+Recent work includes:
 
-- Fine‑tuning LLaMA 3.2 3B with QLoRA for domain‑specific QA, including dataset design, training pipeline development, and multi‑benchmark evaluation.
+- Building an LLM agent memory system with semantic retrieval, reliability and lineage tracking, and a learned lifecycle policy for long-term interactions.
 
-- Studying how large language models generate answers, with a focus on reasoning patterns and error behaviour.
+- Developing SFT and GRPO training and evaluation pipelines for an LLM agent policy, including reward design, rollout analysis, contamination tracking, and long-horizon evaluation.
 
-- Building deep learning forecasting systems at NIWE with under 1% error on live wind‑power data.
+-  Building and deploying SafeRecover, an AI-powered workflow recovery system combining LLM-assisted diagnosis, risk-scored actions, allowlisted automation, and downstream verification.
 
-- Improving atmospheric forecasts at Vayu Bhuvan by 15 percent using statistical and ML models.
+- Evaluating LLM reasoning behaviour across 6 open-source models and 150 cognitive-trap questions, including cases where models produce correct answers for incorrect or contradictory reasons.
 
-- Developing a Snowflake‑ and NLP‑powered analytics platform for forecasting, anomaly detection, and churn prediction.
+- Fine-tuning LLaMA 3.2 3B with QLoRA for scientific reasoning and evaluating it across multiple benchmarks.
 
-My experience spans LLM applications, RAG architectures, predictive modelling, time‑series analysis, and ML pipelines. I work with Python, PyTorch, TensorFlow, Scikit‑learn, Hugging Face Transformers, and Snowflake.
+I also have experience in time-series forecasting and applied machine learning.
 
-I’m interested in roles in AI and ML engineering, quantitative modelling, and applied research where I can work on technically challenging problems.
+I work with Python, PyTorch, Hugging Face Transformers, FastAPI, PostgreSQL, MongoDB, Redis, LangChain, ChromaDB, and Docker.
+
+I’m interested in AI engineering roles focused on LLMs, AI agents, RAG, evaluation, reliable AI systems, and production ML.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahashree-vasudevan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahashreevasudevan@gmail.com) 
